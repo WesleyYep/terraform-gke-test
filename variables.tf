@@ -1,9 +1,9 @@
 variable "name" {
-  default = "demo-cluster"
+  default = "demo-cluster-terraform"
 }
 
 variable "project" {
-  default = "optimum-spring-238818"
+  default = "t-system-305400"
 }
 
 variable "location" {
